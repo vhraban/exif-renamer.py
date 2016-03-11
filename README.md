@@ -9,3 +9,10 @@ imported from a computer to Dropbox Camera Upload.
 
 This script will work only with Python 3 because it uses
 typehints and input() function instead of raw_input()
+
+
+# Usage
+
+    exif-renamer.py <directory>
+
+**Note**: the script iterates the directory not recursively
